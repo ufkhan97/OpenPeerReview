@@ -1,0 +1,66 @@
+﻿Researcher @ SCRF Peer Review
+Thank you for sharing your research and evaluating reviews at the Smart Contract Research Forum’s Open Peer Review Project! We appreciate your contribution to the scientific discourse of web3 research and your willingness to receive feedback.  As part of your participation, we are asking all researchers to:
+* Create a thread for peer review on smartcontractresearch.org. We’re asking all dialogue to happen in the open to maximize transparency and accountability.  When creating your thread, please be sure to:
+   * Title the thread ‘Peer Review: Research Title’ 
+   * Categorize it according to the appropriate subject matter 
+   * Include a link to access your paper
+   * Include a disclosure statement of any interests including but not limited to: organization affiliations, funding sources, etc.
+   * Then, someone from the SCRF team will respond with instructions for reviewers
+* Respond to and rate all reviews. We’re trying to create and gather as much data as we can about the effectiveness of peer review, in the open. After at least three reviews of a paper have been submitted, it’ll be time to review and rate them
+* Participate in a 60 minute interview with SCRF after the review is completed. We’re new to running peer review and trying out a few things. We want to make sure we take time to find out what worked and what didn’t work for you. Look out for a link to schedule a time.
+
+
+Please familiarize yourself with these guidelines before writing your response to reviews:
+* Please wait for at least three reviewers to comment before responding to reviews. This lowers the chance of your response biasing future reviews.
+* Please remember that reviewers are attempting to help authors improve research and have dedicated a significant amount of time to doing so. 
+* Please respond to each reviewer individually and make it clear which revisions you are implementing and where in the paper you have done so. 
+* Please be empathetic and professional. As part of fostering a learning environment, we want to avoid any rudeness or arguments that attack the person rather than the position of the paper.
+* Bear in mind, your reviews and your name will be publicly available to anyone reading the Smart Contract Research Forum. You can add your reviews to your CV since anyone can access them. We encourage you to take time to make a review you will be proud of. 
+
+
+Please include the following in your response:
+* Please feel free to use the separately attached review template 
+* A response to suggested revisions and for each suggestion an explanation of if the revision was implemented and how 
+* Answers to the following multiple choice questions with a brief explanation of your ratings:
+   * Please rate this review on the level of understanding it showed of the research 
+         * This review showed a thorough understanding of the research objective, methods, and conclusions
+         * This review mostly understands the research objective, methods, and conclusions but shows that it may have missed some small details 
+         * This review partly understands the research objective, methods, and conclusions but misses significant details
+         * This review does not understand the research objective, methods, and/or conclusion 
+   * Please rate this review on tone 
+         * This review makes use of appropriate language and is written with complete professionalism and respect, 
+         * This review is written with professionalism and respect but is occasionally condescending 
+         * This review is written with some professionalism and respect but makes uses of inappropriate language or is condescending 
+         * This review is written with little professionalism and respect 
+   * Please rate this review on helpfulness (did it help you strengthen your paper?)
+         * This review provided clear areas to strengthen the substance of the paper and easy to understand descriptions of how to improve
+         * This review provided clear areas to strengthen the substance of the paper and descriptions of how to improve 
+         * This review provided areas to strengthen the paper and/or descriptions of how to improve
+         * This review did not provide substantive or clear areas to strengthen the paper 
+* Any other questions or comments about the review which was not captured here?
+* Any thoughts on how we can improve the peer review process? Please share them in this forum post or in our final interview/survey 
+
+
+Below we provide the rating critera we will ask reviewers to identify for all research:
+* Please provide a brief explanation of your selection. 
+   * Please rate this paper on scientific correctness (does the research have an identifiable question or objective? Are sound methods and/or statistics used? are the conclusions logically based on the results?). 
+      * I am confident that the paper is technically sound, and I have carefully checked the details.
+      * The paper appears to be technically sound, but I have not carefully checked the details.
+      * The paper has minor, easily fixable, technical flaws that do not impact the validity of the main results.
+      * The paper has major technical flaws.
+   * Please rate this paper on organization and clarity of language (is the writing easy to follow? are concepts well-explained? is the document well-organized?), 
+      * The paper is well-organized and clearly written.
+      * The paper is well organized but the presentation could be improved.
+      * The paper is somewhat clear, but some important details are missing or unclear.
+      * The paper is unclear and very hard to understand.
+   * Please rate this paper on openness and reproducibility (is the data available? is the code? are the methods explained clearly enough to be replicable?)
+      * Key resources (e.g., proofs, code, data) are available and key details (e.g., proof sketches, experimental setup) are comprehensively described for competent researchers to confidently and easily reproduce the main results.
+      * Key resources (e.g., proofs, code, data) are available and key details (e.g., proofs, experimental setup) are sufficiently well-described for competent researchers to confidently reproduce the main results.
+      * Key resources (e.g., proofs, code, data) are unavailable but key details (e.g., proof sketches, experimental setup) are sufficiently well-described for an expert to confidently reproduce the main results.
+      * Key details (e.g., proof sketches, experimental setup) are incomplete/unclear, or key resources (e.g., proofs, code, data) are unavailable.
+   * How confident are you in your understanding of this paper? Why?
+      * I have checked all points of the paper carefully and was sure that I knew exactly what the author meant in their writing. I am certain I did not miss any aspects that could otherwise have impacted my evaluation.
+      * I checked the important points carefully and felt pretty sure I understood what the author meant in their writing. It is unlikely, though conceivable, that I misunderstood some aspects that could have impacted the quality of my evaluation.
+      * There's a chance I misunderstood some aspects of the paper that I do not have the depth of knowledge required to confirm what the author writes is accurate. Moreover, I may not have carefully checked some of the details, e.g., proof of a theorem, experimental design, or statistical validity of conclusions. 
+      * I am able to defend my evaluation of some aspects of the paper, but it is quite likely that I missed or did not understand some key details.
+      * This paper was very confusing to me. My evaluation is an educated guess.
