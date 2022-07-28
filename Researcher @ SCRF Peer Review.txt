@@ -1,6 +1,6 @@
 ﻿Researcher @ SCRF Peer Review
 Thank you for sharing your research and evaluating reviews at the Smart Contract Research Forum’s Open Peer Review Project! We appreciate your contribution to the scientific discourse of web3 research and your willingness to receive feedback.  As part of your participation, we are asking all researchers to:
-* Create a thread for peer review on smartcontractresearch.org. We’re asking all dialogue to happen in the open to maximize transparency and accountability.  When creating your thread, please be sure to:
+* Create a thread for peer review on smartcontractresearch.org. We’re asking all dialogue to happen in the open to maximize transparency and accountability.  wen creating your thread, please be sure to:
    * Title the thread ‘Peer Review: Research Title’ 
    * Categorize it according to the appropriate subject matter 
    * Include a link to access your paper
